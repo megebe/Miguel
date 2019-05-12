@@ -1,2 +1,2 @@
-# Miguel
-Socialist and proud
+# Miguel and Javier
+
