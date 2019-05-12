@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "nombre": "Jose Manuel", 
+        "telefono": 632985623, 
+        "apellido": "Gómez"
+    }
+]
